@@ -74,7 +74,7 @@ Follow these instructions to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Muzahidin735/YOUR_REPOSITORY.git
+git clone https://github.com/Muzahidin735/news.git
 cd news
 ```
 
