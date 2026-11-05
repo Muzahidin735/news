@@ -186,7 +186,3 @@ Through this project, I explored and implemented:
 - Improve the commenting experience.
 - Add user profile management.
 - Introduce a production-ready deployment configuration.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
